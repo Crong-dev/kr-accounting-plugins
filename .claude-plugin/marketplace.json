@@ -1,0 +1,14 @@
+{
+  "name": "kr-accounting-plugins",
+  "owner": {
+    "name": "Accounting Team"
+  },
+  "plugins": [
+    {
+      "name": "kr-accounting",
+      "source": "./plugins/kr-accounting",
+      "description": "한국 법인 회계팀 업무 전반(결산, 부가세, 원천세, 법인세, 재무보고, 자금, 세무일정)을 한국 기준으로 처리하는 스킬",
+      "version": "1.0.0"
+    }
+  ]
+}
