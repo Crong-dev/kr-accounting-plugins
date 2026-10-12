@@ -25,7 +25,7 @@
 ### Claude Code
 
 ```bash
-claude plugin marketplace add <GitHub아이디>/kr-accounting-plugins
+claude plugin marketplace add Crong-dev/kr-accounting-plugins
 claude plugin install kr-accounting@kr-accounting-plugins
 ```
 
@@ -37,7 +37,7 @@ claude plugin marketplace update kr-accounting-plugins
 
 ### Claude 앱 (claude.ai, 데스크톱, 모바일)
 
-1. 이 저장소의 [Releases](../../releases)에서 `kr-accounting-team.zip`을 내려받습니다.
+1. 이 저장소의 [Releases](https://github.com/Crong-dev/kr-accounting-plugins/releases)에서 `kr-accounting-team.zip`을 내려받습니다.
 2. Claude 설정의 스킬 메뉴에서 zip 파일을 업로드합니다.
 3. 웹 검색이 켜져 있는지 확인합니다.
 
